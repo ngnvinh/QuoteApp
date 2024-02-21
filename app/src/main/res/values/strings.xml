@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="quotes1">Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</string>
+    <string name="author1">Oscar Wilde</string>
+    <string name="quotes2">That it will never come again is what makes life so sweet</string>
+    <string name="author2">Emily Dickinson</string>
+    <string name="quotes3">It is never too late to be what you might have been</string>
+    <string name="author3">George Eliot</string>
+    <string name="quotes4">To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</string>
+    <string name="author4">Ralph Waldo Emerson</string>
+    <string name="quotes5">Pain is inevitable. Suffering is optional</string>
+    <string name="author5">Haruki Murukami</string>
+    <string name="quotes6">All the world\'s a stage, and all the men and women merely players</string>
+    <string name="author6">William Shakespeare</string>
+    <string name="quotes7">Be kind, for everyone you meet is fighting a hard battle.</string>
+    <string name="author7">Plato</string>
+    <string name="quotes8">Unable are the loved to die for love is immortality</string>
+    <string name="author8">Emily Dickinson</string>
+    <string name="quotes9">Let me live, love, and say it well in good sentences</string>
+    <string name="author9">Sylvia Plath</string>
+    <string name="quotes10">Don\'t let your happiness depend on something you may lose</string>
+    <string name="author10">C.S. Lewis</string>
+</resources>
